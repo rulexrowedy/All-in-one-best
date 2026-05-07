@@ -1,0 +1,6 @@
+streamlit
+selenium
+cryptography
+webdriver-manager
+psutil
+Pillow

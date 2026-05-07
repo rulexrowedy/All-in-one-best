@@ -1,0 +1,9 @@
+chromium
+chromium-driver
+build-essential
+libssl-dev
+libffi-dev
+python3-dev
+pkg-config
+cargo
+rustc
